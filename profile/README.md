@@ -1,4 +1,4 @@
 # Profile under construction
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Under construction image](https://github.com/Our-Solution/.github/blob/main/assets/under_construction.svg)
 
 This profile page is under construction.
